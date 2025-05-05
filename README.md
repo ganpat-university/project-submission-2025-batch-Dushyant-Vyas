@@ -1,6 +1,9 @@
-* Name: Dushyant K Vyas
-* Enrol: 22162172006
-* Dep: B.Tech CSE[CS]
-* Sem: 8th
+> Dushyant K Vyas
+> ---
+> Enrol: __22162172006__
+> 
+> Dep: __B.Tech CSE[CS]__
+> 
+> Sem: 8<sup>th</sup>
 ---
 Above are the IBM and Industry Project Directories containing PPT, Report and Plagiarism Report for both the respective projects.
